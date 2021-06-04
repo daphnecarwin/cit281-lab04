@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Lab 04
+Purpose of the Lab:
 
-You can use the [editor on GitHub](https://github.com/daphnecarwin/cit281-lab04/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Create initial Fastify Node.js web server
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Initialize as a Node.js project folder using Node Package Manager (npm)
 
-### Markdown
+Add Fastify to project using npm, and test using Visual Studio Code (VSCode)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Add git repo, exclude node_modules folder from git, make commits
 
-```markdown
-Syntax highlighted code block
+Fix MIME error, test, and commit
 
-# Header 1
-## Header 2
-### Header 3
+Add a second route with query parameters, test, and commit
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+Technologies Used for the Lab:
 
-**Bold** and _Italic_ and `Code` text
+Node.js, npm, terminal, VSCode, Chrome
 
-[Link](url) and ![Image](src)
-```
+What I Learned From the Lab:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+I learned how to create a web page on my computer using terminal and code. 
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/daphnecarwin/cit281-lab04/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
